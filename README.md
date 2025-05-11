@@ -1,48 +1,28 @@
-# G105C
-```
 ## Overview
 
-This project was completed as part of my internship at **Zscaler**, a leading cloud security company. The work primarily focused on frontend development and included the following key functionalities:
+This project was developed as part of my internship at **Zscaler**. It focuses on frontend development and includes:
 
-- Implementation of dynamic UI components
-- CRUD operations
-- Search and advanced filtering features
-- Drag-and-drop functionality
-- Real-time form validation
-- Data grid-level validations
-- Unit testing and End-to-End (E2E) testing using **Playwright**
+* User Interface implementation
+* CRUD operations
+* Search functionality
+* Drag-and-drop UI features
+* Form validation
+* Data grid validation
+* Unit and E2E testing using Playwright
 
-All development followed a structured CI/CD workflow:
-- Code changes were committed via Pull Requests (PRs)
-- PRs were reviewed and merged into the `6.3` (staging) branch
-- After successful QA verification, changes were pushed to the production `6.2` branch
+After development, all code changes were raised as Pull Requests (PRs), reviewed by peers, merged into the `6.3` branch, and finally tested by QA before being promoted to the production `6.2` branch.
 
-## Technologies Used
+## Confidentiality Notice
 
-- **React** (Component-based frontend development)
-- **Redux** (Global state management)
-- **Playwright** (Automated E2E and unit testing)
-- **JavaScript (ES6+)**
-- **SCSS**
-- **RESTful API Integration**
+Due to **Zscaler's confidentiality agreement**, I am not permitted to include:
 
-## ⚠️ Confidentiality Notice
+* Screenshots of the application
+* Any part of the source code
 
-Due to my **confidentiality agreement with Zscaler**, I am not authorized to share:
-
-- Any screenshots of the application
-- Any source code or implementation details
-
-This project involved proprietary technologies and internal systems that are protected under Zscaler’s intellectual property policies.
+This restriction is in place to protect proprietary information and internal tools.
 
 ## Acknowledgments
 
-I would like to express my sincere gratitude to:
-
-- **Mr. Inderjit Bhogal**, Manager, Software Engineering at Zscaler – for his mentorship and technical guidance
-- **Prof. Dr. Vivek Kumar Sehgal**, Jaypee University of Information Technology – for academic supervision
+I would like to thank my mentors and team at Zscaler for their support and guidance throughout the internship.
 
 ---
-
-_This README is provided for academic reference only._
-```
